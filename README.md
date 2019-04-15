@@ -36,7 +36,7 @@ QQ群：940577921（备注：11）
 
 
 <div>
-    				<h4 style="font-weight: 400px;"><span class="glyphicon glyphicon-info-sign"></span>&nbsp;&nbsp;tlshop系统主要特性：</h4>
+    				<h4 style="font-weight: 400px;"><span class="glyphicon glyphicon-info-sign"></span>&nbsp;&nbsp;系统主要特性：</h4>
 					<ul style="margin-left: 0px;-webkit-padding-start: 10px;">
 						<li class="tlshop_item "><span>支持多种前台样式，可以方便的在后台切换。</span></li>
 						<li class="tlshop_item "><span>支持大部分配置信息后台管理，减少修改配置文件造成的问题和不必要的麻烦。</span></li>

@@ -1,7 +1,7 @@
 项目介绍
 ---
 
- 源码学院双十一电商系统是一套基于Dubbo的大型分布式、高可用电商平台，可用于互联网电子商务、企业电子商务、互联网医疗、以及大型互联网门户等系统。
+ Java分布式电商系统是一套基于Dubbo的大型分布式、高可用电商平台，可用于互联网电子商务、企业电子商务、互联网医疗、以及大型互联网门户等系统。
    
 ## 技术选型
 ### 后端技术
@@ -15,6 +15,7 @@
 * 其他组件: commons-io,commons-fileupload,commons-beanutils,jackson,pinyin4j,aliyun,alipay,commons-lang
 ### 技术交流
 QQ群：940577921（备注：11）
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1c0d93672d39f851223d8ca833ea764d809c3bd15000acb1052d65d89ceeb3e3"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java源码交流兵团" title="Java源码交流兵团"></a>
 
 ### 前端技术
 * JS框架： jquery1.9
